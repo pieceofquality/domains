@@ -16,8 +16,10 @@ charlesproxy.com
 chat.com
 chat.openai.com.cdn.cloudflare.net
 chatgpt.com
+claude.ai
 clients6.google.com
 connectivitycheck.gstatic.com
+cursor.com
 deepmind.com
 deepmind.google
 docker.io
@@ -32,6 +34,7 @@ gemini.google.com
 generativeai.google
 generativelanguage.googleapis.com
 ggpht.com
+githubusercontent.com
 google.com
 google-analytics.com
 googleapis.com
@@ -69,13 +72,16 @@ production-openaicom-storage.azureedge.net
 proxyman.com
 proxyman.io
 pstmn.io
+quretests.com
 qameta.io
 returnyoutubedislikeapi.com
 robinfrontend-pa.googleapis.com
 run.app
+sllr.pro
 sparklabs.com
 stitch.withgoogle.com
 suggestqueries.google.com
 testops.cloud
 toolbox.app
+warp.dev
 x.ai
