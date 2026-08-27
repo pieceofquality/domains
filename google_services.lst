@@ -9,6 +9,8 @@ beacons.gvt2.com
 clients6.google.com
 connectivitycheck.gstatic.com
 deepmind.google
+developers.google.cn
+developers.google.com
 gemini.google
 gemini.google.com
 generativeai.google
@@ -16,8 +18,6 @@ google-analytics.com
 googleapis.com
 googleplay.com
 googlevideo.com
-gstatic.com
-gvt1.com
 gstatic.com
 gvt1.com
 jules.google
@@ -35,3 +35,4 @@ play-lh.googleusercontent.com
 play.google.com
 stitch.withgoogle.com
 suggestqueries.google.com
+withgoogle.com
